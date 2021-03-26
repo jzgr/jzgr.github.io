@@ -1,8 +1,109 @@
-- 面向对象
-- jvm
-- 线程
-- 线程池
-- 锁
+- JavaSE
+  - 基础
+    - 基础语法
+    - 类和对象
+    - 基本数据类型
+    - 变量类型
+    - 修饰符
+    - 运算符
+    - 循环结构
+    - 条件语句
+    - `switch` -`case`-`default`
+    - `Number` & `Math` 类 
+    - `Character`类
+    - `String`类
+    - `StringBuffer`类
+    - 数组
+    - 日期时间
+    - 正则表达式
+    - 方法
+    - `Stream` `File` `IO`
+    - `Scanner`类
+    - 异常
+  - 面向对象
+    - 继承
+    - `Override`/`Overload`
+    - 多态
+    - 抽象类
+    - 封装
+    - 接口
+    - 枚举
+    - 包
+  - 数据结构
+    - 枚举
+    - 位集合
+    - 向量
+    - 栈
+    - 字典
+    - 哈希表
+    - 属性
+  - 内存
+  - `String` `StringBuilder` `StringBuffer` 源码分析
+  - 集合
+    - ArrayList
+    - LinkedList
+    - Vector
+    - Stack
+    - HashSet
+    - LinedHashSet
+    - TreeSet
+    - Queue
+    - HashMap
+    - LinkedHashMap
+    - HashTable
+    - TreeMap
+    - IdentityHashMap
+    - WeakHashMap
+  - 迭代器
+  - `Object`
+  - 泛型
+  - 序列化
+  - 网络编程
+  - 发送邮件
+  - 多项成编程
+  - Applet基础
+  - 文档注释
+  - 数据库连接
+    - Mysql
+  - Java8新特性
+  - Java9新特性
+- JVM
+  - 基础知识
+  - 虚拟机的类型
+  - 类加载机制
+    - 双亲委派
+    - 打破双亲委派
+  - 内存区域与内存溢出
+  - 垃圾回收算法
+    - 标记清除
+    - 复制算法
+    - 编辑整理
+    - 分代收集算法
+- 并发
+  - 基础
+  - 生产者和消费者问题
+  - 线程中断
+  - 守护线程和阻塞线程
+  - synchronized
+  - 多线程中安全使用集合
+  - 内存可见的两种方式
+    - 加锁
+    - volatile
+  - 死锁
+  - 可重入内置锁
+  - CAS
+  - 使用`wait`/`notify`/`notifyAll`实现线程见的通讯
+  - IO模型
+    - 阻塞IO模型
+    - 非阻塞IO模型
+    - IO复用模型
+    - 信号驱动IO模型
+    - 异步IO模型
+  - 线程池
+    - 线程池的创建方式
+    - 线程池的7个核心参数
+    - 线程池的拒绝策略
+  - 锁
 - 设计模式
   - 设计模式的六大原则
     - 开闭原则(Open Close Principle)
@@ -58,4 +159,18 @@
     - 贪心
     - 回溯
     - 分支界定
-
+  - 排序
+    - 选择排序
+    - 冒泡排序
+    - 快速排序
+    - 并归排序
+  - 查找
+    - 顺序查找
+    - 折半查找
+- 网络
+  - 基础
+  - `TCP`/`UDP`
+  - HTTP
+  - HTTPS
+  - Socket
+- 操作系统
