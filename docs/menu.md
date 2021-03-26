@@ -1,0 +1,61 @@
+- 面向对象
+- jvm
+- 线程
+- 线程池
+- 锁
+- 设计模式
+  - 设计模式的六大原则
+    - 开闭原则(Open Close Principle)
+    - 里氏代换原则(Liskov Subsitution Principle)
+    - 依赖倒转原则(Dependence Inversion Principle)
+    - 接口隔离原则(Interface Segregation Principle)
+    - 迪米特原则 or 最少知道原则(Demeter Principle)
+    - 合成复用原则(Composite Reuse Principle)
+  - 创建型设计模式(5种)
+    - 单例模式(Singleton Pattern)
+    - 工厂模式(Factory Pattern)
+    - 抽象工厂模式(Abstract Factory Pattern)
+    - 建造者模式(Builder Pattern)
+    - 原型模式(Prototype Pattern)
+  - 结构行设计模式(7种)
+    - 适配器模式(Adpter Pattern)
+    - 桥接模式(Bridge Pattern)
+    - 组合模式(Composite Pattern)
+    - 装饰着模式(Decorator Pattern)
+    - 外观模式(Facade Pattern)
+    - 享元模式(Flyweight Pattern)
+    - 代理模式(Proxy Pattern)
+  - 行为型设计模式(11种)
+    - 责任链模式(Chain of Responsibility Pattern)
+    - 命令模式(Command Pattern)
+    - 解释器模式(Interpreter Pattern)
+    - 迭代器模式(Iterator Pattern)
+    - 中介者模式(Mediator Pattern)
+    - 备忘录模式(Memento Pattern)
+    - 观察者模式(Observer Pattern)
+    - 状态模式(State Pattern)
+    - 策略模式(Strategy Pattern)
+    - 模板模式(Template Pattern)
+    - 访问者模式(Visitor Pattern)
+- 数据结构
+  - 数组
+  - 栈
+  - 队列
+  - 链表
+  - 树
+    - 二叉树
+    - AVL树
+    - 红黑树
+    - B树
+    - B+树
+  - 散列表
+  - 堆
+  - 图
+- 算法
+  - 五大常用算法
+    - 分治
+    - 动态规划
+    - 贪心
+    - 回溯
+    - 分支界定
+
