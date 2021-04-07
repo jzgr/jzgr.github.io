@@ -174,3 +174,47 @@
   - HTTPS
   - Socket
 - 操作系统
+- NoSql
+  - redis
+    - 基础
+    - 五种基本类型
+    - 三种特殊类型
+    - 持久化
+    - 事务
+    - 哨兵
+    - 集群
+    - 主从
+- 搜索
+  - elasticsearch
+  - solr
+- 消息队列
+  - RabbitMQ
+  - Kafka
+  - RocketMQ
+- 日志
+  - ELKB
+- 分布式事务
+- 分布式锁
+- 持久层框架
+  - mybatis
+  - jpa
+  - hibernate
+- 框架
+  - spring
+  - springmvc
+  - springboot
+- springcloud
+  - 网关
+    - zuul
+      - zuul1.x
+      - zuul2.x
+    - gateway
+  - 注册中心
+    - eureka
+    - nacos
+  - 配置中心
+    - config
+    - nacos
+  - 熔断/限流
+    - hystrix
+    - sentinel
